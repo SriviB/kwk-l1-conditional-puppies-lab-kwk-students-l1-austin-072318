@@ -26,7 +26,7 @@ def some_puppies(pup_num, max_pup)
   if pup_num < max_pup/2
     "Good job!"
   elsif pup_num > max_pup
-    "Get back to your animal goals!
+    "Get back to your animal goals!"
   end
 end
 
