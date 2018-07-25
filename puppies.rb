@@ -36,6 +36,6 @@ def both_animals(pup_num, cat_num)
   if pup_num == 0||cat_num == 0 
     "Good job!"
   elsif pup_num >=1 && cat_num >= 1 
-    "Slow!"
+    "Get back to your animal goals!"
   end
 end
